@@ -34,7 +34,7 @@ A aplicação consiste em uma dashboard de vendas, onde são apresentados os dad
 Pré-requisitos: Java 11
 
 clonar repositório
-- git clone 
+- git clone https://github.com/MaxsuelSantos/projeto-sds3.git
 
 entrar na pasta do projeto back end
 - cd backend
@@ -46,7 +46,7 @@ Pré-requisitos: npm / yarn
 
 clonar repositório
 
-- git clone 
+- git clone https://github.com/MaxsuelSantos/projeto-sds3.git
 
 entrar na pasta do projeto front end web
 
